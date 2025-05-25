@@ -1,0 +1,2 @@
+*.o
+!*.asm     # garde les sources ASM
